@@ -1,0 +1,23 @@
+h1, h2, ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+ul {
+  font-family: monospace, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#personName {
+  font-weight: bold;
+}
